@@ -1,4 +1,4 @@
-## Variabes
+## Variables
 
 ### About
 
